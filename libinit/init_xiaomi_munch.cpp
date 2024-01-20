@@ -12,39 +12,30 @@
 static const variant_info_t munch_in_info = {
     .hwc_value = "INDIA",
     .sku_value = "",
-
     .brand = "POCO",
     .device = "munch",
     .marketname = "POCO F4",
     .model = "22021211RI",
-    .build_fingerprint = "POCO/munch_in/munch:12/RKQ1.200826.002/V13.0.4.0.SLMMIXM:user/release-keys",
-
     .nfc = true,
 };
 
 static const variant_info_t munch_global_info = {
     .hwc_value = "GLOBAL",
     .sku_value = "",
-
     .brand = "POCO",
     .device = "munch",
     .marketname = "POCO F4",
     .model = "22021211RG",
-    .build_fingerprint = "POCO/munch_global/munch:12/RKQ1.200826.002/V13.0.4.0.SLMMIXM:user/release-keys",
-
     .nfc = true,
 };
 
 static const variant_info_t munch_info = {
     .hwc_value = "",
     .sku_value = "",
-
     .brand = "Redmi",
     .device = "munch",
     .marketname = "Redmi K40S",
     .model = "22021211RC",
-    .build_fingerprint = "Redmi/munch/munch:12/RKQ1.200826.002/V13.0.4.0.SLMMIXM:user/release-keys",
-
     .nfc = true,
 };
 
