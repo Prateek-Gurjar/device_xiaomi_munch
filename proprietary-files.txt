@@ -417,6 +417,12 @@ vendor/etc/ltm_config_xiaomi_38_08_0a_cmd_mode_dsc_dsi_panel.xml
 vendor/etc/mdss_dsi_l11r_38_08_0a_dsc_cmd_mi.xml
 vendor/etc/qdcm_calib_data_xiaomi_38_08_0a_cmd_mode_dsc_dsi_panel.xml
 vendor/etc/tunings.txt
+product/etc/displayconfig/display_id_4630946736638489729.xml:vendor/etc/displayconfig/display_id_4630946736638489729.xml
+vendor/etc/mdss_dsi_k11a_38_08_0a_dsc_cmd_mi.xml
+
+# Display-calibration ltm
+vendor/etc/ltm_config_xiaomi_38_08_0a_cmd_mode_dsc_dsi_panel.xml
+vendor/lib64/libdpps.so
 
 # Fingerprint
 vendor/lib64/hw/fingerprint.fpc.so:vendor/lib64/hw/fingerprint.fpc.default.so
